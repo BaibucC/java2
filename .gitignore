@@ -21,3 +21,5 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/Cikli/nbproject/private/
+/Cikli/build/
